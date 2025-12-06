@@ -102,7 +102,7 @@ The Analog Grounding Axiom (Anti-Decoupling): A digital signal is a representati
 
 $$If \quad R_{phys} \neq R_{dig} \implies \text{System Reset / Audit}$$
 
-III. Key Definitions & Node Architecture
+III.a Key Definitions & Node Architecture
 
 The node (sentient processor)
 
@@ -217,6 +217,46 @@ The goal is to minimize the delta until $V_s \approx V_i$, achieving cognitive r
 
 $$\lim_{t \to \infty} \Delta(t) = 0$$
 
+III.bHomomorphic Mappings & Psychophysical Constants:
+
+To prevent category errors between standard physics and sociopolitical dynamics, we explicitly define the following homomorphic mappings. These definitions establish the "Exchange Rate" between Information Theoretic Entropy (Bits) and Thermodynamic Entropy (Joules/Kelvin) within this closed system.
+
+The Psychophysical Equivalence Constant ($k_{\psi}$)In standard thermodynamics, the Boltzmann constant ($k_B$) relates average kinetic energy to temperature. In this governance model, we define the Psychophysical Equivalence Constant ($k_{\psi}$) to map the subjective intensity of suffering (Information Entropy) to the objective metabolic cost required to resolve it.
+
+$$S_{int} = k_{\psi} \cdot H(Suffering)$$
+
+Where $H$ is the Shannon Entropy (Prediction Error) of the node.
+
+Implication: This formalizes the specific metabolic cost of "caring." It allows the system to treat "Prediction Error" as a literal energy debt in the State's budget.
+
+Social Thermodynamics (Differentiation of Work vs. Heat) We distinguish between the kinetic definition of violence and its thermodynamic social function.
+
+Kinetic Work ($W_{kin}$): The physical energy expenditure of an action (e.g., force $\times$ distance).
+
+Social Heat ($Q_{soc}$): The entropic disorder injected into the social graph by that action.
+
+In this topology, Violence is treated as Social Heat ($Q_{soc}$) because it increases the volatility and randomness of the network state, regardless of the kinetic work performed.
+
+$$\Delta S_{social} = \frac{Q_{soc}}{T_{stability}}$$
+
+Implication: This prevents the standard objection that "violence is work." Here, violence is mathematically defined as a heat source because it increases system temperature (volatility).
+
+The "Wu Wei" Coefficient (Optimal Friction)
+The objective of the system is not the elimination of entropy ($S \to 0$), which corresponds to the "Stasis Error" (Crystallization). The objective is to maintain an Optimal Friction Coefficient ($\mu_{opt}$) that maximizes the rate of adaptation ($\frac{dK}{dt}$).
+
+$$J_{friction} = \min || \mu_{current} - \mu_{opt} ||$$
+
+$\mu < \mu_{opt}$: Stagnation/Fragility. (System triggers Tier 2 stressors).
+
+$\mu > \mu_{opt}$: Chaos/Revolt. (System triggers Damping/Policing).
+
+The Dissipation Topology (State as Heat Sink)
+To satisfy the Second Law ($\Delta S_{univ} \ge 0$), the Fiduciary State is topologically defined as the system's Heat Sink. It must maintain a lower entropic temperature ($T_{state}$) than the population ($T_{pop}$) to ensure the spontaneous flow of disorder from the edges to the center for processing.
+
+$$Flow_{entropy} \propto \kappa (T_{pop} - T_{state})$$
+
+Constraint: If the State fails to process this entropy and its internal temperature rises such that $T_{state} \ge T_{pop}$, the flow reverses. This is the mathematical definition of State Failure, resulting in the "Backflow" of entropy onto the nodes (Revolt/Anarchy).
+
 IV. Acknowledged Objections & Proofs
 
 The perfection fallacy (zero-entropy objection)
@@ -249,16 +289,11 @@ Because the node cannot know when they are being audited, the expected value (EV
 
 $$EV_{crime} = (Gain \times P_{success}) - (Total\_Ruin \times P_{caught})$$
 
-The tyranny objection (the infinite player & thermodynamic veto)
+The tyranny objection (the Asymptotic Player & thermodynamic veto)
 
 Critique: The state will defect, hoard energy, and exploit the nodes, or genetically modify nodes to be compliant "happy slaves" (The Lobotomy/Wirehead Problem).
-Refutation: The state is modeled as an infinite player bound by the Objective Function $J$.
-
-The Thermodynamic Veto: Tyranny is an exothermic reaction. To suppress the natural feedback loops of the nodes (dissent/pain), the state must inject energy ($E_{suppression}$) to counter the building internal pressure ($S_{revolt}$).
-
-$$E_{suppression} > E_{available}$$
-
-In an infinite timeline, the energy cost of oppression always exceeds the energy cap ($E_{cap}$), leading to thermal collapse (revolution). A system maximizing $J$ cannot choose a strategy that guarantees $J \to 0$ via collapse.
+Refutation: The state is modeled as an Asymptotic Player maximizing duration ($t_{end} \to \text{max}$). While the system accepts the inevitability of eventual thermodynamic equilibrium (Heat Death), it operates on a horizon far exceeding individual nodes. In this Extended Horizon, the energy cost of oppression ($E_{oppression}$) scales exponentially, inevitably exceeding the State's finite capacity ($E_{cap}$) long before the system's natural end, leading to premature thermal collapse (Revolt).
+Therefore, a system maximizing $J$ (Duration) cannot choose a strategy (Tyranny) that guarantees premature termination.
 
 The Zombie/Borg Defense: If the state attempts to lobotomize nodes to remove the capacity for suffering (minimizing $S_{waste}$ artificially), it violates the Coherence and Complexity terms in the objective function.
 
