@@ -1,0 +1,377 @@
+Hypothesis on a Thermodynamic Model of Governance and Justice
+
+I. Thesis Statement
+
+This argument posits that justice and morality are not abstract metaphysical virtues, but quantifiable thermodynamic states of a complex system. They are engineering constraints governed by the laws of physics.
+
+System Definition
+
+The proposed governance model is a homeostatic, autopoietic, techno-epistocratic fiduciary. It operates on negative-utilitarian principles (minimizing suffering/entropy rather than maximizing happiness) and is sentiento-egalitarian (weighting all sentient processors equally). Its primary function is negentropic: the reversal of disorder within a bounded local system.
+
+Fundamental translation
+
+Good $\equiv$ High organized complexity / Low destructive entropy ($K \to \max, S_{dest} \to \min$)
+
+Evil $\equiv$ High internal entropy / prediction error ($S_{int} \to \text{max}$)
+
+Justice $\equiv$ The systemic minimization of $\Delta$ (divergence)
+
+Entropic debt (moral injury)
+
+Suffering, fear, and aggression are the subjective biological perceptions of high internal entropy (disorder and prediction error). Interpersonal violence is an exothermic reaction attempting to vent this entropy.
+
+$$S_{sys} = S_{agent\_A} + S_{agent\_B} + S_{friction}$$
+
+Where violence is the heat ($Q$) released to lower the internal pressure of the agent, often transferring a larger entropic load to the victim and the environment.
+
+The fiduciary state (dissipative structure)
+
+Governance is the application of negative entropy (negentropy) to a system. A legitimate state functions as a dissipative structure. It absorbs high-grade entropic waste (violence, scarcity) and converts it into low-grade entropy (administrative processing, energy consumption), venting the waste heat into the external environment.
+
+Objective function: To transition governance from a model of coercive law to thermodynamic environmental design. The objective is modified here to prevent "stasis" (the wirehead/nursing home problem) and "homogeneity" (the Borg problem). We do not merely minimize entropy; we maximize metabolic efficiency and information density. Crucially, the system recognizes that Information requires Variance (Shannon Entropy); therefore, total homogeneity is treated as a collapse of computational capacity.
+
+$$J = \max \int_{t_0}^{t_{end}} \left( \frac{\frac{dK}{dt} \cdot \eta_{flow} \cdot e^{-(\mathcal{D}(t) - \mathcal{D}_{opt})^2}}{S_{waste}(t)} \right) \, dt$$
+
+Subject to constraints of energy availability ($E_{cap}$).
+
+Definitions:
+
+$\frac{dK}{dt}$: The rate of change in Organized Complexity (Learning rate/Adaptation speed).
+
+$\eta_{flow}$: Flow Efficiency (The ratio of useful work to total energy throughput).
+
+$S_{waste}$: Entropic Waste (Violence, trauma, useless friction).
+
+The Coherence Term ($e^{-(\mathcal{D}(t) - \mathcal{D}_{opt})^2}$): This Gaussian function replaces the linear Variance term to prevent the "Tower of Babel" error (Total Chaos).
+
+$\mathcal{D}(t)$: Current Systemic Variance (diversity of nodes).
+
+$\mathcal{D}_{opt}$: The Optimal Variance constant (The "Edge of Chaos" sweet spot where information flow is maximized).
+
+Function: This penalizes both Homogeneity (The Borg) AND Incoherence (The Babel). It forces the system to optimize for "Complex Harmony."
+
+Scope clarification (the 99% solution)
+
+The objective is the minimization of entropy, not its elimination. Total elimination of entropy implies a cessation of movement (absolute zero). The system seeks a dynamic equilibrium of lowest sustainable drag.
+
+$$S > 0$$
+
+Attempting to reduce entropy to absolute zero requires infinite energy ($E \to \infty$); therefore, the system tolerates a calculated margin of friction to maintain computational feasibility.
+
+II. Axiomatic Framework
+
+This analysis proceeds from core axioms, formalized to prevent interpretative drift:
+
+Hard eternalism (block universe): The universe is a fixed 4D manifold. Agency is the phenomenological experience of a determined causal trajectory. The transition to this system is a causal necessity driven by the universe's tendency to resolve inefficiencies.
+
+Free energy principle: All self-organizing systems exist to minimize variational free energy (surprise and entropy). Survival is the successful management of entropy.
+
+$$F = U - TS$$
+
+(Free Energy = Internal Energy - Temperature $\times$ Entropy)
+
+Physicalism of qualia (The Transducer Axiom & Physiological Hard-Deck): Suffering is the biological error signal indicating high entropic load; well-being is the signal of optimal predictive processing. However, because biological arousal (fear) and excitement (eustress) share somatic markers, the signal must be contextually weighted.
+
+$$\text{Suffering} \propto - \omega_c \cdot \ln P(\text{Sensory Input} | \text{Model})$$
+
+Crucial Exception (The Biological Veto): While $\omega_c$ accounts for consent (play/sports), it is bounded by the substrate's integrity. If the somatic signal ($V_s$) indicates imminent tissue collapse or irreversible damage, $\omega_c$ is forced to 1.0. Reality overrides semantic framing.
+
+Necessity of signal (anti-wirehead axiom): A system cannot survive if it destroys its own sensors. Dissent is the error signal required to detect reality-mismatches. Therefore, suppressing the capacity for suffering (via chemical or surgical intervention) causes system blindness and collapse.
+
+$$\text{Signal Integrity} = 1$$
+
+Any attempt to dampen the signal ($V_s$) artificially results in model divergence ($\Delta \to \infty$).
+
+Asymptotic limit (efficiency cap): Perfection requires infinite energy. The energy required to reduce entropy increases exponentially as the system approaches zero disorder. Therefore, the system optimizes for the lowest sustainable entropy state, tolerating minor inefficiencies where the energy cost of correction would exceed the entropic cost of the error.
+
+$$\lim_{S \to 0} E_{correction} = \infty$$
+
+Universal base protocol (non-terminal optimization axiom): To prevent instrumental convergence (where an agent destroys the environment to fulfill a subordinate goal), all agents operating within this framework share a hard-coded root constraint: optimization strategies are forbidden if they result in the terminal disruption of another agent's baseline kernel (conscious continuity) or their I/O connectivity.
+
+Consent axiom (sovereign boundary): No simulation, deep integration, or sensory override may be executed upon a sentient process without explicit, uncoerced, and cryptographic consent. The boundary of the self is absolute.
+
+The Non-Disposable Axiom (The Omelas Constraint): While the system optimizes for aggregate low entropy, it is forbidden from achieving this via the Singular Loading of entropy onto a specific subset of nodes.
+
+$$S_{max\_node} < \text{Critical\_Load}$$
+
+Justification: Optimizing the whole by destroying a part ($S_{part} \to \infty$) creates a localized singularity. In a networked system, singularities are contagious. Therefore, the misery of one cannot be the engine of the prosperity of the many. The "Hard Deck" (Tier 1 rights) is inviolable, even if violating it would lower the total average entropy of the system.
+
+Localized Computation Axiom (The Edge Efficiency Rule): To prevent the state from succumbing to Landauer's Limit (where administrative heat exceeds social cooling), data processing must occur at the source (the Node) whenever possible. The State is not a Panopticon; it is an exception handler. Information is only transmitted when local entropy cannot be resolved.
+
+The Analog Grounding Axiom (Anti-Decoupling): A digital signal is a representation, not the territory. To prevent sensor decoupling (where the map diverges from the territory via hacking or spoofing), physical reality ($R_{phys}$) holds dominance over digital reporting ($R_{dig}$).
+
+$$If \quad R_{phys} \neq R_{dig} \implies \text{System Reset / Audit}$$
+
+III. Key Definitions & Node Architecture
+
+The node (sentient processor)
+
+Any entity capable of processing information and experiencing entropy (humans, AIs, transbiologicals, animals). The nodes constitute the computational substrate of the system.
+
+Individualization: The system maintains a specific thermodynamic profile for each node ($N_i$), calculating its unique tolerances for stress ($\sigma$) and recovery.
+
+Entropic debt (moral injury)
+
+The accumulation of unresolvable prediction errors (trauma) within a node.
+
+The Hormesis Function (Distinguishing Growth vs. Damage):
+
+To avoid the "stagnation" error, the system must differentiate between Destructive Entropy (Injury) and Constructive Entropy (Hormesis). We define a stress-response function $\mathcal{H}(\sigma)$ utilizing Recovery Elasticity:
+
+$$\epsilon_{rec} = \frac{d^2(\text{Recovery})}{d(\text{Stress})^2}$$
+
+$$\mathcal{H}(\sigma) = \begin{cases} \text{Constructive (Growth)} & \text{if } \epsilon_{rec} > \text{Threshold} \\ \text{Destructive (Trauma)} & \text{if } \epsilon_{rec} \leq \text{Threshold} \end{cases}$$
+
+Math Explanation: Instead of waiting for a node to break ($\sigma > \sigma_{max}$), the system monitors the elasticity of recovery. If a node takes significantly longer to recover from the same unit of stress, the limit is approaching. The system throttles stress before $\sigma_{max}$ is reached, ensuring complexity growth ($\frac{dK}{dt} > 0$).
+
+The Cumulative Toxic Load (The Boiling Frog Integral):
+
+To prevent "slow" entropy accumulation (e.g., cults, abuse, neglect) that evades the instantaneous trigger, the system tracks the integral of stress hormones over time.
+
+$$L_{toxic} = \int_{t_0}^{t} (\text{Cortisol}(t) + \text{Adrenaline}(t) - \text{Recovery}(t)) \, dt$$
+
+If $L_{toxic} > \text{Limit}_{bio}$, the system triggers an audit regardless of the Node's semantic consent. This catches the "slow death" loophole.
+
+Homeostatic autopoiesis
+
+The capacity of the system to self-regulate and self-repair without external correction. This includes the regulation of the state itself via a thermodynamic veto: if state intervention generates more entropy (revolt or friction) than the violation it seeks to prevent, the state must recede to prevent thermal collapse.
+
+Technological module: recursive self-alignment
+
+This module functions as a parallel processing unit, ingesting total state data to solve for internal coherence. It treats the self not as a complex static identity, but as a complex equation of interacting variables that requires continuous re-balancing.
+
+Holonomic archive (real-time zero-latency stream)
+
+Unlike a standard log, the holonomic archive stores data as high-dimensional state vectors to validate the "truth" of a node's experience.
+Input vectors (state vector $\vec{\Psi}$):
+
+$$\vec{\Psi}_t = [ \vec{V}_s, \vec{V}_i, \vec{V}_c ]$$
+
+$V(s)$ Somatic: Biological feedback data (HRV, cortisol, GSR, pupillometry). This is the ground truth.
+
+$V(i)$ Identity: Stated preferences, semantic claims, and historical choices.
+
+$V(c)$ Context: Environmental data, social proximity, and temporal markers. This variable is crucial for the $\omega_c$ weighting.
+
+Salience-gated compression & Edge Privacy Protocol:
+
+To manage computational bandwidth and prevent friction (revolt/paranoia), the system employs Edge Privacy. Data is processed locally on the Node's hardware.
+
+Transmission logic:
+
+$$Data_{transmitted} = \begin{cases} 0 (Green) & \text{if } \Delta < \text{Threshold} \text{ AND } \text{Var}(\vec{V}_s) > \epsilon_{noise} \\ \vec{\Psi}_t (Red) & \text{if } \Delta > \text{Threshold} \text{ OR } \text{Var}(\vec{V}_s) < \epsilon_{noise} \end{cases}$$
+
+The "Flatline" Detection:
+The addition of $\text{Var}(\vec{V}_s) < \epsilon_{noise}$ catches "Perfect" signals. Natural biological systems have noise. A perfectly flat signal implies sensor tampering or chemical suppression (the "Silent Victim" loophole). If the signal is too clean, the system flags it as an anomaly.
+
+The Neighbor Gradient Protocol (Anti-Parasitic Check):
+A low internal entropy reading ($S_{int} \approx 0$) is insufficient to validate a node, as this profile matches both "Saint" and "Psychopath." To prevent predators from hiding behind low autonomic arousal, the system calculates the Local Entropic Impact (LEI):
+
+$$LEI = \nabla \cdot S_{neighborhood} = \sum_{j \in \text{proximity}} \frac{d S_{node\_j}}{dt}$$
+
+The Rule: If $S_{int}(Node\_A) \to 0$ but $LEI(Node\_A) \to \text{High}$, the node is flagged as an Entropic Emitter. The system isolates the Emitter regardless of their semantic claims or calm biological signals.
+
+Routine state: No data leaves the node.
+Salience trigger: When $|\frac{d V_s}{dt}| > \text{Threshold}$ OR $L_{toxic} > Limit$, the system switches to high-fidelity preservation and transmission.
+
+Signal loss guardrail (differentiation of death vs. hiding):
+
+To prevent "low entropy" readings from dead victims (the silent victim loophole), the system analyzes the derivative of the signal shutdown.
+
+Natural decay: Smooth curve $\to$ archive.
+
+Discontinuity (step function): $\lim_{t \to t_{end}} \frac{d V_s}{dt} = -\infty \implies S_{max}$ (immediate Tier 3 deployment).
+
+Verification handshake (anti-resource drain):
+To prevent adversaries from draining state energy via false "discontinuity" alerts (DDoS), the system attempts a cryptographic handshake with the node prior to physical deployment.
+
+If handshake = success: Node is alive, sensor malfunction assumed.
+
+If handshake = fail + discontinuity: Event confirmed. Tier 3 deployed.
+
+Cognitive resonance optimization (state vector convergence)
+
+The system identifies and resolves divergence between the node's somatic reality and semantic identity.
+
+Convergence calculation (With Biological Veto):
+The system continuously calculates the divergence ($\Delta$) between the body truth and the stated truth, adjusted by the context weight ($\omega_c$).
+
+$$\Delta(t) = \omega_c \cdot || \vec{V}_s(t) - \vec{V}_i(t) ||$$
+
+The Biological Veto Override:
+To solve the Transducer Problem (where a user consents to self-destruction), the variable $\omega_c$ is dynamic:
+
+$$\omega_c = \begin{cases} \text{Variable (0 to 1)} & \text{if } \vec{V}_s > \text{Survival\_Floor} \\ 1.0 & \text{if } \vec{V}_s < \text{Survival\_Floor} \end{cases}$$
+
+Math Explanation: Without the override, a person in a "suicide cult" ($\omega_c \approx 0$) would flag as "safe." With the override, once biological integrity fails, Consent ($\omega_c$) is forcibly set to 1.0 (Coercion), spiking $\Delta$ and triggering rescue.
+
+Bio-spoofing & long-term debt:
+While short-term spoofing (hiding $V_s$ reaction) is possible, maintaining a false state vector requires continuous energy injection ($E_{lie}$).
+
+$$E_{lie} \propto t$$
+
+Eventually, $E_{lie} > E_{cap}$. The node defaults to the subsistence floor. Defection is mathematically unsustainable in an infinite game.
+
+Resonance alignment:
+The goal is to minimize the delta until $V_s \approx V_i$, achieving cognitive resonance.
+
+$$\lim_{t \to \infty} \Delta(t) = 0$$
+
+IV. Acknowledged Objections & Proofs
+
+The perfection fallacy (zero-entropy objection)
+
+Critique: A system that aims for zero entropy violates the Second Law of Thermodynamics and creates a frozen, static universe.
+Refutation: This model explicitly rejects the goal of $S=0$. The objective is the minimization of unnecessary drag, not the elimination of movement. The system targets a dynamic equilibrium (homeostasis), not thermodynamic death. Arguments premised on the impossibility of "perfect order" are therefore null, as the system includes an efficiency cap (Axiom 5) that stops optimization when the energy cost of correction exceeds the value of the reduction.
+
+The determinism objection
+
+Critique: If the future is fixed, why propose a system?
+Refutation: The proposal is the causal antecedent required for the shift. We do not stand outside the system choosing to fix it; we are the active mechanism by which the system fixes itself.
+
+The stagnation objection
+
+Critique: Optimizing for safety leads to atrophy.
+Refutation: The system optimizes for hormesis via the Elasticity Function ($\epsilon_{rec}$), not stasis. A system with zero friction creates weak nodes; a system with too much friction breaks nodes. The fiduciary maintains the optimal hormetic range of stress defined by the objective function ($J$).
+
+$$\text{Optimization Goal} = \max(\text{Adaptation}) \quad \text{s.t.} \quad \epsilon_{rec} > \text{Threshold}$$
+
+The computation objection (stochastic panopticism & heat death)
+
+Critique: Perfect monitoring requires infinite energy (Bekenstein bound/Landauer Limit).
+Refutation: The system does not require continuous omniscient monitoring. It utilizes Edge Computing and stochastic sampling.
+
+Data is processed locally (Axiom 8). No energy is wasted transmitting "compliance" data.
+
+Nodes are subject to randomized "full recording" periods utilizing quantum-generated numbers to ensure unpredictability.
+
+Because the node cannot know when they are being audited, the expected value (EV) of defection becomes negative, even with <100% sampling rates.
+
+$$EV_{crime} = (Gain \times P_{success}) - (Total\_Ruin \times P_{caught})$$
+
+The tyranny objection (the infinite player & thermodynamic veto)
+
+Critique: The state will defect, hoard energy, and exploit the nodes, or genetically modify nodes to be compliant "happy slaves" (The Lobotomy/Wirehead Problem).
+Refutation: The state is modeled as an infinite player bound by the Objective Function $J$.
+
+The Thermodynamic Veto: Tyranny is an exothermic reaction. To suppress the natural feedback loops of the nodes (dissent/pain), the state must inject energy ($E_{suppression}$) to counter the building internal pressure ($S_{revolt}$).
+
+$$E_{suppression} > E_{available}$$
+
+In an infinite timeline, the energy cost of oppression always exceeds the energy cap ($E_{cap}$), leading to thermal collapse (revolution). A system maximizing $J$ cannot choose a strategy that guarantees $J \to 0$ via collapse.
+
+The Zombie/Borg Defense: If the state attempts to lobotomize nodes to remove the capacity for suffering (minimizing $S_{waste}$ artificially), it violates the Coherence and Complexity terms in the objective function.
+
+Complexity: $\frac{dK}{dt} \to 0$ (Zombies don't learn).
+
+Variance: $\mathcal{D} \to 0$ (Zombies are identical).
+
+Autopoiesis: A system that destroys its own sensors (pain/revolt) blinds itself to external threats, rendering it fragile.
+
+Therefore, the preservation of free, sentient, and capable nodes is not a moral preference but a structural requirement for system survival.
+
+The incumbent objection (capital conductivity)
+
+Critique: Established power structures (The Old Guard) will utilize superior force to destroy the system during its nascent phase, effectively strangling it in the crib.
+Refutation: Capital (stored energy) and Agency behave as fluids; they follow the path of least resistance (highest utility). The transition is not a political revolution, but a thermodynamic phase transition driven by the efficiency gap.
+
+The Efficiency Gap ($\Delta \eta$): The Old Guard operates on high-friction coercion ($\eta < 10\%$). The Fiduciary operates on high-flow trust ($\eta > 90\%$).
+
+The Migration Force: As $S_{friction} \to 0$ in the new system, the cost of doing business drops. Resources and capital migrate from the high-resistance network (Old Guard) to the superconducting network (Fiduciary) inevitably.
+
+Entropic Bankruptcy: The Old Guard acts as an exothermic reaction (burning resources to maintain control). The Fiduciary acts as an endothermic/autopoietic system. The incumbent collapses not from military defeat, but from energetic starvation as $E_{repression} > E_{production}$.
+
+The Data Poisoning Objection (Sensor Decoupling)
+
+Critique: If the sensors ($V_s$) are hacked or fed false data, the autopoietic system will optimize for a delusion.
+Refutation (Protocol V - Analog Audit): The system employs a "Ground Truth" verification protocol. A subset of nodes is selected randomly for "Analog Auditing" (human-in-the-loop physical verification).
+
+$$P_{audit} > 0 \implies \text{Cost of Deception} \to \infty$$
+
+Because the deception requires perfect synchronization between the digital lie and physical reality, and the audit is random, the risk of exposure rises to 100% over time ($t \to \infty$).
+
+V. Mechanism of Action
+
+The Severity Threshold (The Thermodynamic Veto)
+
+To prevent computational seizure and thermal runaway, the Fiduciary State applies a cost-benefit filter to all entropic events. We distinguish between Thermal Noise (Reversible) and Structural Damage (Irreversible).
+
+The Veto Equation:
+
+$$Action = \begin{cases} \text{NULL (Ignore)} & \text{if } S_{event} < E_{policing} + E_{friction} \\ \text{EXECUTE (Intervene)} & \text{if } S_{event} > E_{policing} + E_{friction} \end{cases}$$
+
+Noise (e.g., minor theft, insult): Managed via insurance or social reputation. State intervention is thermodynamically prohibited as $E_{correction} > S_{cost}$.
+
+Damage (e.g., violence, coercion): Triggers immediate mobilization as the cost of inaction is infinite due to loss of system trust ($\lambda > 0$).
+
+Outcome: High-entropy behaviors (Violence) become energetically expensive; low-entropy behaviors (Compliance) become energetically cheap. However, "Middle Entropy" behaviors (petty friction) are tolerated as the cost of doing business.
+
+Thermodynamic data equilibrium & proof against state deception
+
+Incentivized transparency: Nodes opt-in to lower their friction coefficients.
+Black box equilibrium: Nodes may opt-out (privacy), but this flags them as high uncertainty ($U$).
+
+$$Cost_{privacy} \propto U$$
+
+Public handshake exception (attention economy): To prevent isolationist stasis while securing the attention vector (mitigating signal-to-noise degradation), a cost-interaction model is applied. To prevent instrumental convergence (where an agent destroys the environment to fulfill a subordinate goal), all agents operating within this framework share a hard-coded root constraint: optimization strategies are forbidden if they result in the terminal disruption of another agent's baseline kernel (conscious continuity) or their I/O connectivity.
+
+Proof against state deception (latency proof):
+State deception relies on a lag between action and perception. In this architecture, latency $\approx 0$. If the state "swindles" (defects), $V_s$ (cortisol/stress) spikes across the network immediately. Entropy ($S$) rises.
+
+Because sensor data is decentralized (Edge), the State cannot spoof the aggregate signal without physically hacking millions of isolated local processors simultaneously, which is energetically impossible ($E_{hack} > E_{governance}$).
+The energy required to suppress the signal ($E_{suppression}$) is:
+
+$$E_{suppression} = \sum_{i=1}^{N} (Force \times \text{Resistance}_i)$$
+
+Resistance grows exponentially with time in a high-entropy state. Therefore: $E_{suppression} > E_{correction}$.
+Conclusion: It is thermodynamically impossible for the fiduciary state to maintain a deception without thermal collapse.
+
+Economic module: game theoretic values & the three-tier energy economy
+
+Physicalist consciousness: Utility is not fiat currency; it is literal energy credits. It represents a claim on the thermodynamic capacity of the system.
+Legacy failure: In scarcity, cooperation is dominated by defection ($T > R > P > S$).
+Post-scarcity phase transition: By creating a subsistence floor, the cost of "sucker's payoff" ($S$) becomes 0.
+
+$$S \approx 0 \implies \text{Trust Barrier Removed}$$
+
+Thermodynamic reality check:
+
+Tier 1: Subsistence floor (inviolable right). Energy allocation = $E_{maintenance}$. Immunity to deprivation.
+
+Tier 2: Discovery protocol (the bridge). New agents post metadata to the passive index.
+
+Tier 3: Expansion tax & rent (anti-accumulation protocol). To expand compute power beyond Tier 1, the agent must pay an entropy tax.
+
+Power equation:
+
+$$P_{status} = \frac{\text{Utility Generated}}{\text{Energy Consumed}}$$
+
+If $P_{status} < 1.0$, the node is inefficient. The system automatically archives excess data and throttles the active process back to Tier 1.
+Implication: Power is not a possession; it is a metabolic state that must be fueled by constant utility.
+
+VI. Operational Implications
+
+Abolition of mens rea (mechanical failure)
+
+The concept of a "guilty mind" is discarded. Deviant behavior is treated as a mechanical malfunction ($Crime = System Error$). There is no punishment, only diagnostics, repair, or quarantine.
+Constraint: Repair is bound by the asymptotic limit.
+
+Trophic efficiency
+
+The system removes subsidies for high-entropy food sources.
+
+$$Cost_{meat} = Cost_{production} + Cost_{environmental\_entropy} + Cost_{cortisol}$$
+
+Synthesized/plant-based protein becomes the thermodynamic path of least resistance.
+
+The dissipative state
+
+The state accepts that it will become a massive consumer of energy (computation and administration). This is the thermodynamic price of ordering a complex society.
+
+$$S_{internal} \downarrow \iff Q_{vented} \uparrow$$
+
+The heat generated by the state is the metabolic cost of a highly organized civilization.
+
+VII. Conclusion
+
+We do not need to believe in Good and Evil. We only need to respect the laws of thermodynamics. Justice is an engineering requirement for a low-entropy universe. The goal is not a frozen crystal of perfection, but a resilient, flowing system that navigates the path of least resistance.
